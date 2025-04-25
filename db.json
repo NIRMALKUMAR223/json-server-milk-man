@@ -1,0 +1,44 @@
+{
+  "admin": [],
+  "customers": [
+    {
+      "id": "61e9",
+      "name": "nirmal",
+      "phone": "6382339382",
+      "milkRecords": [
+        {
+          "date": "2025-04-25",
+          "morning": "200",
+          "evening": "500"
+        },
+        {
+          "date": "2025-04-24",
+          "morning": "500",
+          "evening": "700"
+        }
+      ]
+    },
+    {
+      "id": "2e61",
+      "name": "david",
+      "phone": "erer"
+    },
+    {
+      "id": "50ff",
+      "name": "raja",
+      "phone": "764654654",
+      "milkRecords": [
+        {
+          "date": "2025-04-26",
+          "morning": "600",
+          "evening": "600"
+        },
+        {
+          "date": "2025-04-25",
+          "morning": "300",
+          "evening": "700"
+        }
+      ]
+    }
+  ]
+}
